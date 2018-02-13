@@ -15,7 +15,7 @@ This project was completed using Vue.js and Vuex which is Vue's equivalent of Re
 Basic state management allows for addition of products into the cart
 
 ## Starting the Project
-> The project will start on port 8080
+> The project will start on port 8080 or visit this [link](https://sellbrite-vue.firebaseapp.com/shop)
 
 ```bash
 git clone
