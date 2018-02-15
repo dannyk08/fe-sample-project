@@ -11,6 +11,9 @@
         <li class="nav-link-item">
           <router-link :to="{name: 'ProductList'}">Shop</router-link>
         </li>
+        <li class="nav-link-item">
+          <a href="https://dannys.io/about">Danny's IO</a>
+        </li>
         <li class="nav-link-item nav-cart">
           <a v-on:click="displayCart()">
             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
